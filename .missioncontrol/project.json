@@ -1,0 +1,48 @@
+{
+  "Id": 2,
+  "Name": "Mish Control Staging",
+  "GithubForkAddress": "https://github.com/mission-control-bluefruit/mish-control-staging.git",
+  "LocalGitPath": "repo/MishControlStaging",
+  "Workflow": {
+    "Id": 1,
+    "Name": "Staging",
+    "WorkStates": [
+      {
+        "WorkStateId": 1,
+        "Index": 0,
+        "Name": "Done",
+        "IsTestable": false,
+        "IsDone": true,
+        "WorkflowId": 0
+      },
+      {
+        "WorkStateId": 2,
+        "Index": 1,
+        "Name": "More Done",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 0
+      },
+      {
+        "WorkStateId": 3,
+        "Index": 2,
+        "Name": "Even More Done",
+        "IsTestable": true,
+        "IsDone": false,
+        "WorkflowId": 0
+      }
+    ]
+  },
+  "Sprints": [
+    {
+      "Id": -1,
+      "Name": "All Sprints",
+      "StartDate": "0001-01-01T00:00:00",
+      "EndDate": "0001-01-01T00:00:00",
+      "Feedback": [],
+      "Ratings": [],
+      "IsCompleted": false
+    }
+  ],
+  "Users": []
+}
