@@ -42,7 +42,32 @@
       "Feedback": [],
       "Ratings": [],
       "IsCompleted": false
+    },
+    {
+      "Id": 2,
+      "Name": "Sprint 1",
+      "StartDate": "2020-09-15T09:14:48.9728864",
+      "EndDate": "2020-09-29T09:14:48.9728864",
+      "Feedback": [],
+      "Ratings": [],
+      "IsCompleted": false
     }
   ],
-  "Users": []
+  "Users": [
+    {
+      "Id": "d8b1dcd7-1f01-4eaa-9a45-7dac465db017",
+      "Name": null,
+      "Role": "User"
+    },
+    {
+      "Id": "9888ea71-ba18-4c55-be7f-37cd0ba04d78",
+      "Name": null,
+      "Role": "Admin"
+    },
+    {
+      "Id": "aa2cef54-4925-4a59-a92a-6175208e0941",
+      "Name": null,
+      "Role": "Admin"
+    }
+  ]
 }
