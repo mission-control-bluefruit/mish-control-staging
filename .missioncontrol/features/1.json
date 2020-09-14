@@ -9,7 +9,9 @@
       "Scenarios": [
         {
           "Tags": [],
-          "LinkedUserStoryIds": [],
+          "LinkedUserStoryIds": [
+            1
+          ],
           "Id": 3,
           "Name": "A thing what was done was done by Dave",
           "Steps": "Given a Dave\nWhen something bad happens\nThen it was Dave what done it",
