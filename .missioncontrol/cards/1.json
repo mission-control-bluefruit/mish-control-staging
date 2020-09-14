@@ -1,7 +1,7 @@
 {
   "Id": 1,
   "Title": "Card 1",
-  "Content": "\u003Cp\u003EDave was\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHere\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EMan\u003C/p\u003E",
+  "Content": "\u003Cp\u003EDave \u003Cem\u003Ewas\u003C/em\u003E\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHere\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EMan\u003C/p\u003E",
   "Status": "Even More Done",
   "Effort": 0,
   "Type": 0,
