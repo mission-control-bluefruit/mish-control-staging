@@ -2,7 +2,15 @@
   "Id": 1,
   "Tags": [],
   "Description": "",
-  "Rules": [],
+  "Rules": [
+    {
+      "Id": 2,
+      "Text": "Dave did it",
+      "Scenarios": [],
+      "Questions": [],
+      "Name": "Dave did it"
+    }
+  ],
   "Questions": [],
   "Name": "Dave features: Bunch of Daves"
 }
