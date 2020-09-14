@@ -1,0 +1,16 @@
+[
+  {
+    "UserName": "simon.clements@bluefruit.co.uk",
+    "TimeStamp": "2020-09-14T10:43:07.1918573+00:00",
+    "Scenario": {
+      "Tags": [],
+      "LinkedUserStoryIds": [],
+      "Id": 3,
+      "Name": "A thing what was done was done by Dave",
+      "Steps": "Given a Dave\nWhen something bad happens\nThen it was Dave what done it",
+      "TestResult": 0,
+      "Questions": [],
+      "Comment": null
+    }
+  }
+]
