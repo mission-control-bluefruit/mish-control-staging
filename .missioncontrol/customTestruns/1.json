@@ -1,0 +1,45 @@
+{
+  "Id": 1,
+  "Name": "NAme",
+  "Sprint": {
+    "Id": 2,
+    "Name": "Sprint 1",
+    "StartDate": "2020-09-15T09:14:48.9728864",
+    "EndDate": "2020-09-29T09:14:48.9728864",
+    "Feedback": [],
+    "Ratings": [],
+    "IsCompleted": false
+  },
+  "TestFeatures": [
+    {
+      "Id": 1,
+      "Tags": [],
+      "Description": "",
+      "Rules": [
+        {
+          "Id": 2,
+          "Text": "Dave did it",
+          "Scenarios": [
+            {
+              "Tags": [],
+              "LinkedUserStoryIds": [
+                1
+              ],
+              "Id": 3,
+              "Name": "A thing what was done was done by Dave",
+              "Steps": "Given a Dave\nWhen something bad happens\nThen it was Dave what done it",
+              "TestResult": 3,
+              "Questions": [],
+              "Comment": null
+            }
+          ],
+          "Questions": [],
+          "Name": "Dave did it"
+        }
+      ],
+      "Questions": [],
+      "Name": "Dave features: Bunch of Daves"
+    }
+  ],
+  "Published": false
+}
