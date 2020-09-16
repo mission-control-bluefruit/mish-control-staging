@@ -42,5 +42,23 @@
       "Questions": [],
       "Comment": null
     }
+  },
+  {
+    "UserName": "harvey.taylor@bluefruit.co.uk",
+    "TimeStamp": "2020-09-16T14:23:47.7210375+00:00",
+    "Scenario": {
+      "Tags": [],
+      "LinkedUserStoryIds": [
+        1,
+        3,
+        2
+      ],
+      "Id": 3,
+      "Name": "A thing what was done was done by Dave",
+      "Steps": "Given a Dave\nWhen something bad happens\nThen it was Dave what done it",
+      "TestResult": 3,
+      "Questions": [],
+      "Comment": null
+    }
   }
 ]
