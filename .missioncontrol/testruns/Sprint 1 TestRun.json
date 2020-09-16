@@ -18,7 +18,7 @@
               "Id": 3,
               "Name": "A thing what was done was done by Dave",
               "Steps": "Given a Dave\nWhen something bad happens\nThen it was Dave what done it",
-              "TestResult": 3,
+              "TestResult": 4,
               "Questions": [],
               "Comment": null
             }
