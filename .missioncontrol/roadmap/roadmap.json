@@ -4,5 +4,11 @@
     "SprintId": 2,
     "WorkEarmarked": true,
     "RulesEarmarked": []
+  },
+  {
+    "FeatureId": 1,
+    "SprintId": 3,
+    "WorkEarmarked": true,
+    "RulesEarmarked": []
   }
 ]
