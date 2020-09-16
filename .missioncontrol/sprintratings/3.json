@@ -25,5 +25,14 @@
     },
     "TimeStamp": "2020-09-16T14:58:51.8066225+00:00",
     "Rate": 5
+  },
+  {
+    "User": {
+      "Id": "3c0096d7-4aea-4089-953e-9ad1e96ec8f6",
+      "Name": "harvey.taylor@bluefruit.co.uk",
+      "Role": "Admin"
+    },
+    "TimeStamp": "2020-09-16T14:58:58.5904592+00:00",
+    "Rate": 5
   }
 ]
