@@ -2,7 +2,7 @@
   "Id": 2,
   "Title": "Test",
   "Content": "\u003Cp\u003E Testing adding a card to a user selected lane\u003C/p\u003E",
-  "Status": "Even More Done",
+  "Status": "Done",
   "Effort": 0,
   "Type": 0,
   "Sprint": {
@@ -27,5 +27,5 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 1
+  "Index": 0
 }
