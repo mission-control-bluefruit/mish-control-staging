@@ -118,5 +118,10 @@
     "Role": "Admin",
     "TimeStamp": "2020-09-21T12:53:49.6885757+00:00",
     "Tab": "Custom Test Reports"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2020-09-21T13:41:46.0398806+00:00",
+    "Tab": "Acceptance Test Report"
   }
 ]
