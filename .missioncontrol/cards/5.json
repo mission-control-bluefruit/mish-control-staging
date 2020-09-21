@@ -2,7 +2,7 @@
   "Id": 5,
   "Title": "Dave broke",
   "Content": "\u003Cp\u003E \u003C/p\u003E",
-  "Status": "More Done",
+  "Status": "Done",
   "Effort": 0,
   "Type": 1,
   "Sprint": {
@@ -63,5 +63,5 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0
+  "Index": 1
 }
