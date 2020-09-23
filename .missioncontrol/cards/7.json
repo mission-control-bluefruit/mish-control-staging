@@ -1,0 +1,21 @@
+{
+  "Id": 7,
+  "Title": "Blaahhh",
+  "Content": "\u003Cp\u003E \u003C/p\u003E",
+  "Status": "Done",
+  "Effort": 0,
+  "Type": 0,
+  "Sprint": {
+    "Id": 2,
+    "Name": "Sprint 1",
+    "StartDate": "2020-09-15T09:14:48.9728864",
+    "EndDate": "2020-09-29T09:14:48.9728864",
+    "Feedback": [],
+    "Ratings": [],
+    "IsCompleted": false
+  },
+  "LastUpdated": "0001-01-01T00:00:00",
+  "Tags": [],
+  "Comments": [],
+  "Index": 0
+}
