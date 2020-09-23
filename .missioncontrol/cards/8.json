@@ -2,7 +2,7 @@
   "Id": 8,
   "Title": "Do-be-doo",
   "Content": "\u003Cp\u003E \u003C/p\u003E",
-  "Status": "Done",
+  "Status": "More Done",
   "Effort": 0,
   "Type": 1,
   "Sprint": {
@@ -17,5 +17,5 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 1
+  "Index": 3
 }
