@@ -158,5 +158,10 @@
     "Role": "Admin",
     "TimeStamp": "2020-09-23T10:02:40.3411459+00:00",
     "Tab": "Activity"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2020-09-25T16:00:03.1680842+00:00",
+    "Tab": "Acceptance Test Report"
   }
 ]
