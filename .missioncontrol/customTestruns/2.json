@@ -23,7 +23,9 @@
             {
               "Tags": [],
               "LinkedUserStoryIds": [
-                1
+                1,
+                3,
+                2
               ],
               "Id": 3,
               "Name": "A thing what was done was done by Dave",
@@ -37,7 +39,11 @@
           "Name": "Dave did it"
         }
       ],
-      "Questions": [],
+      "Questions": [
+        {
+          "Text": "I\u0027m a question?"
+        }
+      ],
       "Name": "Dave features: Bunch of Daves"
     }
   ],
