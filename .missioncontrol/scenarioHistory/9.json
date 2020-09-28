@@ -12,5 +12,21 @@
       "Questions": [],
       "Comment": null
     }
+  },
+  {
+    "UserName": "simon.clements@bluefruit.co.uk",
+    "TimeStamp": "2020-09-28T10:45:52.2736546+00:00",
+    "Scenario": {
+      "Tags": [],
+      "LinkedUserStoryIds": [
+        14
+      ],
+      "Id": 9,
+      "Name": "Stuff",
+      "Steps": "Given\nWhen \nThen",
+      "TestResult": 0,
+      "Questions": [],
+      "Comment": null
+    }
   }
 ]
