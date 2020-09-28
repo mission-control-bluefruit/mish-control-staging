@@ -1,8 +1,8 @@
 {
   "Id": "2",
-  "Name": "Mish Control Staging",
+  "Name": "Mission Control Staging",
   "GithubForkAddress": "https://github.com/mission-control-bluefruit/mish-control-staging.git",
-  "LocalGitPath": "repo/MishControlStaging",
+  "LocalGitPath": "repo/MissionControlStaging",
   "Workflow": {
     "Id": 1,
     "Name": "Staging",
