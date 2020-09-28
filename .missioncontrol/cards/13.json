@@ -2,7 +2,7 @@
   "Id": 13,
   "Title": "Defect 1",
   "Content": "\u003Cp\u003E \u003C/p\u003E",
-  "Status": "Done",
+  "Status": "More Done",
   "Effort": 0,
   "Type": 1,
   "Sprint": {
