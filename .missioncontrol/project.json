@@ -10,25 +10,25 @@
       {
         "WorkStateId": 1,
         "Index": 0,
-        "Name": "Done",
+        "Name": "Open",
         "IsTestable": false,
-        "IsDone": true,
+        "IsDone": false,
         "WorkflowId": 0
       },
       {
         "WorkStateId": 2,
         "Index": 1,
-        "Name": "More Done",
-        "IsTestable": false,
+        "Name": "In Testing",
+        "IsTestable": true,
         "IsDone": false,
         "WorkflowId": 0
       },
       {
         "WorkStateId": 3,
         "Index": 2,
-        "Name": "Even More Done",
+        "Name": "Done",
         "IsTestable": true,
-        "IsDone": false,
+        "IsDone": true,
         "WorkflowId": 0
       }
     ]
