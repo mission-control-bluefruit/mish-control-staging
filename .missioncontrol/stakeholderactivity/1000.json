@@ -88,5 +88,10 @@
     "Role": "Admin",
     "TimeStamp": "2020-09-28T10:14:05.9241807+00:00",
     "Tab": "Sprint Feedback"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2020-09-28T10:14:07.1535248+00:00",
+    "Tab": "Known Defects"
   }
 ]
