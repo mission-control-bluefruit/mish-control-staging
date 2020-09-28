@@ -173,5 +173,10 @@
     "Role": "Admin",
     "TimeStamp": "2020-09-25T16:00:13.5097878+00:00",
     "Tab": "Acceptance Test Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2020-09-28T09:22:46.0878443+00:00",
+    "Tab": "Known Defects"
   }
 ]
