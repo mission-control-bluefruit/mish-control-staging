@@ -6,7 +6,18 @@
     {
       "Id": 8,
       "Text": "IN a rule",
-      "Scenarios": [],
+      "Scenarios": [
+        {
+          "Tags": [],
+          "LinkedUserStoryIds": [],
+          "Id": 9,
+          "Name": "Stuff",
+          "Steps": "Given\nWhen \nThen",
+          "TestResult": 0,
+          "Questions": [],
+          "Comment": null
+        }
+      ],
       "Questions": [],
       "Name": "IN a rule"
     }
