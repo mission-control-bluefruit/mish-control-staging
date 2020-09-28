@@ -6,18 +6,7 @@
     {
       "Id": 2,
       "Text": "Dave did it",
-      "Scenarios": [
-        {
-          "Tags": [],
-          "LinkedUserStoryIds": [],
-          "Id": 3,
-          "Name": "A thing what was done was done by Dave",
-          "Steps": "Given a Dave\nWhen something bad happens\nThen it was Dave what done it",
-          "TestResult": 3,
-          "Questions": [],
-          "Comment": null
-        }
-      ],
+      "Scenarios": [],
       "Questions": [],
       "Name": "Dave did it"
     }
