@@ -2,7 +2,15 @@
   "Id": 7,
   "Tags": [],
   "Description": "",
-  "Rules": [],
+  "Rules": [
+    {
+      "Id": 8,
+      "Text": "IN a rule",
+      "Scenarios": [],
+      "Questions": [],
+      "Name": "IN a rule"
+    }
+  ],
   "Questions": [],
   "Name": "A thing I want"
 }
