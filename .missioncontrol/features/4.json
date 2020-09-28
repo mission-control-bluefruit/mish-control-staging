@@ -2,7 +2,15 @@
   "Id": 4,
   "Tags": [],
   "Description": "",
-  "Rules": [],
+  "Rules": [
+    {
+      "Id": 5,
+      "Text": "I am a rule",
+      "Scenarios": [],
+      "Questions": [],
+      "Name": "I am a rule"
+    }
+  ],
   "Questions": [],
   "Name": "Test Feature Group: I am a feature"
 }
