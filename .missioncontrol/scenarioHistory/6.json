@@ -28,5 +28,19 @@
       "Questions": [],
       "Comment": null
     }
+  },
+  {
+    "UserName": "simon.clements@bluefruit.co.uk",
+    "TimeStamp": "2020-09-28T10:42:22.0207967+00:00",
+    "Scenario": {
+      "Tags": [],
+      "LinkedUserStoryIds": [],
+      "Id": 6,
+      "Name": "I am a scenario",
+      "Steps": "Given a setup condition\nWhen an event is triggered\nThen a result is given",
+      "TestResult": 0,
+      "Questions": [],
+      "Comment": null
+    }
   }
 ]
