@@ -18,5 +18,10 @@
     "Role": "Admin",
     "TimeStamp": "2020-09-28T09:52:39.1178061+00:00",
     "Tab": "Known Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2020-09-28T09:52:40.6677466+00:00",
+    "Tab": "Fixed Defects"
   }
 ]
