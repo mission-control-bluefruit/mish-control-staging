@@ -9,13 +9,11 @@
       "Scenarios": [
         {
           "Tags": [],
-          "LinkedUserStoryIds": [
-            1
-          ],
+          "LinkedUserStoryIds": [],
           "Id": 3,
           "Name": "A thing what was done was done by Dave",
           "Steps": "Given a Dave\nWhen something bad happens\nThen it was Dave what done it",
-          "TestResult": 2,
+          "TestResult": 3,
           "Questions": [],
           "Comment": null
         }

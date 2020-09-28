@@ -90,5 +90,19 @@
       "Questions": [],
       "Comment": null
     }
+  },
+  {
+    "UserName": "simon.clements@bluefruit.co.uk",
+    "TimeStamp": "2020-09-28T09:29:04.1861699+00:00",
+    "Scenario": {
+      "Tags": [],
+      "LinkedUserStoryIds": [],
+      "Id": 3,
+      "Name": "A thing what was done was done by Dave",
+      "Steps": "Given a Dave\nWhen something bad happens\nThen it was Dave what done it",
+      "TestResult": 3,
+      "Questions": [],
+      "Comment": null
+    }
   }
 ]
