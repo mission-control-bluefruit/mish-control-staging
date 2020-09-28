@@ -1,0 +1,35 @@
+{
+  "Id": 0,
+  "TestFeatures": [
+    {
+      "Id": 4,
+      "Tags": [],
+      "Description": "",
+      "Rules": [
+        {
+          "Id": 5,
+          "Text": "I am a rule",
+          "Scenarios": [
+            {
+              "Tags": [],
+              "LinkedUserStoryIds": [
+                12
+              ],
+              "Id": 6,
+              "Name": "I am a scenario",
+              "Steps": "Given a setup condition\nWhen an event is triggered\nThen a result is given",
+              "TestResult": 2,
+              "Questions": [],
+              "Comment": null
+            }
+          ],
+          "Questions": [],
+          "Name": "I am a rule"
+        }
+      ],
+      "Questions": [],
+      "Name": "Test Feature Group: I am a feature"
+    }
+  ],
+  "Published": false
+}
