@@ -9,7 +9,9 @@
       "Scenarios": [
         {
           "Tags": [],
-          "LinkedUserStoryIds": [],
+          "LinkedUserStoryIds": [
+            12
+          ],
           "Id": 6,
           "Name": "I am a scenario",
           "Steps": "Given a setup condition\nWhen an event is triggered\nThen a result is given",
