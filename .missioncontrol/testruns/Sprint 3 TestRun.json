@@ -13,7 +13,9 @@
             {
               "Tags": [],
               "LinkedUserStoryIds": [
-                14
+                14,
+                16,
+                17
               ],
               "Id": 9,
               "Name": "Stuff",
@@ -31,5 +33,5 @@
       "Name": "A thing I want"
     }
   ],
-  "Published": true
+  "Published": false
 }
