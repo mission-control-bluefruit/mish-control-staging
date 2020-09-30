@@ -48,5 +48,10 @@
     "Role": "Admin",
     "TimeStamp": "2020-09-16T14:59:04.4780994+00:00",
     "Tab": "Sprint Feedback"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2020-09-30T13:46:28.440823+00:00",
+    "Tab": "Acceptance Test Report"
   }
 ]
