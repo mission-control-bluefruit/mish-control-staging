@@ -133,5 +133,10 @@
     "Role": "Admin",
     "TimeStamp": "2020-09-30T13:51:03.5947462+00:00",
     "Tab": "Acceptance Test Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2020-09-30T13:51:07.327637+00:00",
+    "Tab": "Sprint Achievements"
   }
 ]
