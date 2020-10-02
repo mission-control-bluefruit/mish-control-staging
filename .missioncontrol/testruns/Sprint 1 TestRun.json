@@ -1,5 +1,38 @@
 {
   "Id": 0,
-  "TestFeatures": [],
+  "TestFeatures": [
+    {
+      "Id": 7,
+      "Tags": [],
+      "Description": "",
+      "Rules": [
+        {
+          "Id": 8,
+          "Text": "IN a rule",
+          "Scenarios": [
+            {
+              "Tags": [],
+              "LinkedUserStoryIds": [
+                14,
+                16,
+                17,
+                19
+              ],
+              "Id": 9,
+              "Name": "Stuff and ting",
+              "Steps": "Given\nWhen \nThen",
+              "TestResult": 0,
+              "Questions": [],
+              "Comment": null
+            }
+          ],
+          "Questions": [],
+          "Name": "IN a rule"
+        }
+      ],
+      "Questions": [],
+      "Name": "A thing I want"
+    }
+  ],
   "Published": false
 }
