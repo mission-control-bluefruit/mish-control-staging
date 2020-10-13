@@ -133,5 +133,10 @@
     "Role": "User",
     "TimeStamp": "2020-10-13T21:17:06.5533859+00:00",
     "Tab": "Known Defects"
+  },
+  {
+    "Role": "User",
+    "TimeStamp": "2020-10-13T21:17:10.0876197+00:00",
+    "Tab": "Custom Test Reports"
   }
 ]
