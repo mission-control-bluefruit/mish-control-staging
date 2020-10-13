@@ -128,5 +128,10 @@
     "Role": "User",
     "TimeStamp": "2020-10-13T21:16:55.7472639+00:00",
     "Tab": "Sprint Feedback"
+  },
+  {
+    "Role": "User",
+    "TimeStamp": "2020-10-13T21:17:06.5533859+00:00",
+    "Tab": "Known Defects"
   }
 ]
