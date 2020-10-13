@@ -134,6 +134,15 @@
       "Feedback": [],
       "Ratings": [],
       "IsCompleted": false
+    },
+    {
+      "Id": 1011,
+      "Name": "Mini",
+      "StartDate": "2020-10-13T00:00:00+00:00",
+      "EndDate": "2020-10-15T00:00:00",
+      "Feedback": [],
+      "Ratings": [],
+      "IsCompleted": false
     }
   ]
 }
