@@ -83,5 +83,10 @@
     "Role": "User",
     "TimeStamp": "2020-10-13T21:16:15.6139674+00:00",
     "Tab": "Acceptance Test Report"
+  },
+  {
+    "Role": "User",
+    "TimeStamp": "2020-10-13T21:16:20.2777414+00:00",
+    "Tab": "Sprint Achievements"
   }
 ]
