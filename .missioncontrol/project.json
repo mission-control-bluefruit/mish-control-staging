@@ -35,15 +35,6 @@
   },
   "Sprints": [
     {
-      "Id": 1021,
-      "Name": "Distant Past",
-      "StartDate": "1979-11-29T09:14:48",
-      "EndDate": "1979-12-13T09:14:48",
-      "Feedback": [],
-      "Ratings": [],
-      "IsCompleted": false
-    },
-    {
       "Id": 1000,
       "Name": "Sprint 3",
       "StartDate": "2005-10-15T09:14:48",
