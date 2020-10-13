@@ -134,15 +134,6 @@
       "Feedback": [],
       "Ratings": [],
       "IsCompleted": false
-    },
-    {
-      "Id": 1008,
-      "Name": "Dave",
-      "StartDate": "2020-10-13T00:00:00+00:00",
-      "EndDate": "2020-10-27T00:00:00+00:00",
-      "Feedback": [],
-      "Ratings": [],
-      "IsCompleted": false
     }
   ]
 }
