@@ -152,15 +152,6 @@
       "Feedback": [],
       "Ratings": [],
       "IsCompleted": false
-    },
-    {
-      "Id": 1010,
-      "Name": "Future",
-      "StartDate": "2020-10-13T00:00:00+00:00",
-      "EndDate": "2022-10-27T00:00:00",
-      "Feedback": [],
-      "Ratings": [],
-      "IsCompleted": false
     }
   ]
 }
