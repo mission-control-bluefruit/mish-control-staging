@@ -44,6 +44,15 @@
       "IsCompleted": false
     },
     {
+      "Id": 1000,
+      "Name": "Sprint 3",
+      "StartDate": "2005-10-15T09:14:48",
+      "EndDate": "2005-10-29T09:14:48",
+      "Feedback": [],
+      "Ratings": [],
+      "IsCompleted": false
+    },
+    {
       "Id": 1017,
       "Name": "Old",
       "StartDate": "2005-11-14T09:14:48",
@@ -141,24 +150,6 @@
           "Text": "s"
         }
       ],
-      "Ratings": [],
-      "IsCompleted": false
-    },
-    {
-      "Id": 1018,
-      "Name": "Now",
-      "StartDate": "2020-10-13T00:00:00+00:00",
-      "EndDate": "2020-10-27T00:00:00+00:00",
-      "Feedback": [],
-      "Ratings": [],
-      "IsCompleted": false
-    },
-    {
-      "Id": 1000,
-      "Name": "Sprint 3",
-      "StartDate": "2005-10-15T09:14:48",
-      "EndDate": "2005-10-29T09:14:48",
-      "Feedback": [],
       "Ratings": [],
       "IsCompleted": false
     }
