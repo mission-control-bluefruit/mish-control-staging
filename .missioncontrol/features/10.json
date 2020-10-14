@@ -2,7 +2,15 @@
   "Id": 10,
   "Tags": [],
   "Description": "",
-  "Rules": [],
+  "Rules": [
+    {
+      "Id": 11,
+      "Text": "Bootloader",
+      "Scenarios": [],
+      "Questions": [],
+      "Name": "Bootloader"
+    }
+  ],
   "Questions": [],
   "Name": "Req: SRS"
 }
