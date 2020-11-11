@@ -1,8 +1,8 @@
 {
   "Id": 33,
   "Title": "I am a Task",
-  "Content": "\u003Cp\u003E sfk;fdlfjadd\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003Easd\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003Easd\u003C/p\u003E",
-  "Status": "Open",
+  "Content": "\u003Cp\u003Esfk;fdlfjadd\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003Easd\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003Easd\u003C/p\u003E",
+  "Status": "In Testing",
   "Effort": 0,
   "Type": 2,
   "Sprint": {
