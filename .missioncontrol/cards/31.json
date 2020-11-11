@@ -1,8 +1,8 @@
 {
   "Id": 31,
   "Title": "I am a User Story",
-  "Content": "\u003Cp\u003E Hi there\u003C/p\u003E",
-  "Status": "Open",
+  "Content": "\u003Cp\u003EHi there\u003C/p\u003E",
+  "Status": "In Testing",
   "Effort": 0,
   "Type": 0,
   "Sprint": {
