@@ -4,7 +4,7 @@
   "Content": "\u003Cp\u003EHi there\u003C/p\u003E",
   "Status": "In Testing",
   "Effort": 0,
-  "Type": 1,
+  "Type": 2,
   "Sprint": {
     "Id": 3,
     "Name": "Sprint 2",
