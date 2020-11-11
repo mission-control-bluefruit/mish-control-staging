@@ -1,8 +1,8 @@
 {
   "Id": 32,
   "Title": "I am a Defect",
-  "Content": "\u003Cp\u003E lskdkfhskdfj\u003C/p\u003E",
-  "Status": "Open",
+  "Content": "\u003Cp\u003Elskdkfhskdfj\u003C/p\u003E",
+  "Status": "In Testing",
   "Effort": 0,
   "Type": 1,
   "Sprint": {
