@@ -1,10 +1,10 @@
 {
   "Id": 32,
-  "Title": "I am a Defect",
+  "Title": "I am a Defect.",
   "Content": "\u003Cp\u003Elskdkfhskdfj\u003C/p\u003E",
   "Status": "Open",
   "Effort": 0,
-  "Type": 0,
+  "Type": 1,
   "Sprint": {
     "Id": 3,
     "Name": "Sprint 2",
