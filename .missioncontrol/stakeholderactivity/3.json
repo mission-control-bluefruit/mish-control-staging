@@ -173,5 +173,10 @@
     "Role": "Admin",
     "TimeStamp": "2021-09-06T21:28:00.1241565+00:00",
     "Tab": "Activity"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2021-09-06T21:28:01.76217+00:00",
+    "Tab": "Fixed Defects"
   }
 ]
