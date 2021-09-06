@@ -168,5 +168,10 @@
     "Role": "User",
     "TimeStamp": "2021-09-06T20:30:42.822581+00:00",
     "Tab": "Acceptance Test Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2021-09-06T21:28:00.1241565+00:00",
+    "Tab": "Activity"
   }
 ]
