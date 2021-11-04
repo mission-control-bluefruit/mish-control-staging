@@ -2,7 +2,7 @@
   "Id": 32,
   "Title": "I am a Defect.",
   "Content": "\u003Cp\u003Elskdkfhskdfj\u003C/p\u003E",
-  "Status": "In Testing",
+  "Status": "Open",
   "Effort": 0,
   "Type": 1,
   "Sprint": {
