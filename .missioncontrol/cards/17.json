@@ -2,7 +2,7 @@
   "Id": 17,
   "Title": "Dave",
   "Content": "\u003Cp\u003E \u003C/p\u003E",
-  "Status": "Open",
+  "Status": "not opening",
   "Effort": 0,
   "Type": 0,
   "Sprint": {
@@ -17,5 +17,10 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0
+  "Index": 0,
+  "UsersAssigned": [],
+  "DefinitionOfDoneChecklistItems": [],
+  "TaskChecklist": {},
+  "PullRequestNumber": 0,
+  "TimeInFlightEntries": []
 }

@@ -2,7 +2,7 @@
   "Id": 26,
   "Title": "Twelfty-two",
   "Content": "\u003Cp\u003E \u003C/p\u003E",
-  "Status": "Open",
+  "Status": "not opening",
   "Effort": 0,
   "Type": 0,
   "Sprint": {
@@ -27,5 +27,10 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 4
+  "Index": 4,
+  "UsersAssigned": [],
+  "DefinitionOfDoneChecklistItems": [],
+  "TaskChecklist": {},
+  "PullRequestNumber": 0,
+  "TimeInFlightEntries": []
 }

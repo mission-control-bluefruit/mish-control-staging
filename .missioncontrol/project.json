@@ -10,10 +10,11 @@
       {
         "WorkStateId": 1,
         "Index": 0,
-        "Name": "Open",
+        "Name": "not opening",
         "IsTestable": false,
         "IsDone": false,
-        "WorkflowId": 0
+        "WorkflowId": 0,
+        "DefinitionOfDone": []
       },
       {
         "WorkStateId": 2,
@@ -21,7 +22,8 @@
         "Name": "In Testing",
         "IsTestable": true,
         "IsDone": false,
-        "WorkflowId": 0
+        "WorkflowId": 0,
+        "DefinitionOfDone": []
       },
       {
         "WorkStateId": 3,
@@ -29,7 +31,8 @@
         "Name": "Done",
         "IsTestable": true,
         "IsDone": true,
-        "WorkflowId": 0
+        "WorkflowId": 0,
+        "DefinitionOfDone": []
       }
     ]
   },
@@ -135,5 +138,9 @@
       "Ratings": [],
       "IsCompleted": false
     }
-  ]
+  ],
+  "UserNames": [],
+  "EnforceDefinitionOfDone": false,
+  "GithubPRTargetAddress": "",
+  "FeatureFilesLocation": ""
 }
