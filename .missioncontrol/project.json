@@ -139,9 +139,7 @@
       "IsCompleted": false
     }
   ],
-  "UserNames": [
-    "adam.puckey@bluefruit.co.uk"
-  ],
+  "UserNames": [],
   "EnforceDefinitionOfDone": false,
   "GithubPRTargetAddress": "",
   "FeatureFilesLocation": ""
