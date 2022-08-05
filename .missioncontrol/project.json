@@ -139,7 +139,10 @@
       "IsCompleted": false
     }
   ],
-  "UserNames": [],
+  "UserNames": [
+    "adam.puckey@bluefruit.co.uk",
+    "tim.meiwald@bluefruit.co.uk"
+  ],
   "EnforceDefinitionOfDone": false,
   "GithubPRTargetAddress": "",
   "FeatureFilesLocation": ""
