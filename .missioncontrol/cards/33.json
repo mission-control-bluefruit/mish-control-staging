@@ -3,6 +3,7 @@
   "Title": "I am a Task",
   "Content": "\u003Cp\u003Esfk;fdlfjadd\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003Easd\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003Easd\u003C/p\u003E",
   "Status": "In Testing",
+  "Priority": 0,
   "Effort": 0,
   "Type": 1,
   "Sprint": {
@@ -66,7 +67,7 @@
   "Index": 0,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
-  "TaskChecklist": {},
+  "TaskChecklist": [],
   "PullRequestNumber": 0,
   "TimeInFlightEntries": []
 }

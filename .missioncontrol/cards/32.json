@@ -3,6 +3,7 @@
   "Title": "I am a Defect.",
   "Content": "\u003Cp\u003Elskdkfhskdfj\u003C/p\u003E",
   "Status": "In Testing",
+  "Priority": 0,
   "Effort": 0,
   "Type": 1,
   "Sprint": {
@@ -66,7 +67,7 @@
   "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
-  "TaskChecklist": {},
+  "TaskChecklist": [],
   "PullRequestNumber": 0,
   "TimeInFlightEntries": []
 }

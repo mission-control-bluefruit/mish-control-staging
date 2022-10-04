@@ -3,6 +3,7 @@
   "Title": "Twelfty-twelve",
   "Content": "\u003Cp\u003E \u003C/p\u003E",
   "Status": "In Testing",
+  "Priority": 0,
   "Effort": 0,
   "Type": 0,
   "Sprint": {
@@ -30,7 +31,7 @@
   "Index": 4,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
-  "TaskChecklist": {},
+  "TaskChecklist": [],
   "PullRequestNumber": 0,
   "TimeInFlightEntries": []
 }

@@ -3,6 +3,7 @@
   "Title": "I am a Task",
   "Content": "\u003Cp\u003EHi there all\u003C/p\u003E",
   "Status": "not opening",
+  "Priority": 0,
   "Effort": 10,
   "Type": 2,
   "Sprint": {
@@ -20,7 +21,7 @@
   "Index": 2,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
-  "TaskChecklist": {},
+  "TaskChecklist": [],
   "PullRequestNumber": 0,
   "TimeInFlightEntries": []
 }
