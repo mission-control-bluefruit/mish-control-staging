@@ -26,7 +26,7 @@
       "UsersAssigned": [],
       "DefinitionOfDoneChecklistItems": [],
       "TaskChecklist": [],
-      "PullRequestNumber": 0,
+      "AssignedPullRequests": [],
       "TimeInFlightEntries": []
     }
   },
@@ -57,7 +57,7 @@
       "UsersAssigned": [],
       "DefinitionOfDoneChecklistItems": [],
       "TaskChecklist": [],
-      "PullRequestNumber": 0,
+      "AssignedPullRequests": [],
       "TimeInFlightEntries": []
     }
   },
@@ -88,7 +88,7 @@
       "UsersAssigned": [],
       "DefinitionOfDoneChecklistItems": [],
       "TaskChecklist": [],
-      "PullRequestNumber": 0,
+      "AssignedPullRequests": [],
       "TimeInFlightEntries": []
     }
   },
@@ -135,7 +135,7 @@
           "Index": 2
         }
       ],
-      "PullRequestNumber": 0,
+      "AssignedPullRequests": [],
       "TimeInFlightEntries": []
     }
   },
@@ -182,7 +182,54 @@
           "Index": 2
         }
       ],
-      "PullRequestNumber": 0,
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": []
+    }
+  },
+  {
+    "UserName": "will.hawkesworth@bluefruit.co.uk",
+    "TimeStamp": "2022-12-15T17:21:36.4271169+00:00",
+    "workItem": {
+      "Id": 17,
+      "Title": "Dave",
+      "Content": "\u003Cp\u003E \u00601\u003C/p\u003E",
+      "Status": "not opening",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 3",
+        "StartDate": "2005-10-15T09:14:48",
+        "EndDate": "2005-10-29T09:14:48",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [
+        {
+          "TaskName": "2",
+          "IsCompleted": false,
+          "Index": 0
+        },
+        {
+          "TaskName": "35",
+          "IsCompleted": false,
+          "Index": 1
+        },
+        {
+          "TaskName": "1",
+          "IsCompleted": false,
+          "Index": 2
+        }
+      ],
+      "AssignedPullRequests": [],
       "TimeInFlightEntries": []
     }
   }

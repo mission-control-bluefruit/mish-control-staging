@@ -3,5 +3,75 @@
     "Role": "Admin",
     "TimeStamp": "2022-12-15T17:20:26.2007406+00:00",
     "Tab": "Pull Request Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:32.5178604+00:00",
+    "Tab": "Rules Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:32.8493956+00:00",
+    "Tab": "Release Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:34.4589551+00:00",
+    "Tab": "Sprint Achievements"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:35.4113119+00:00",
+    "Tab": "Automated Test Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:35.8609727+00:00",
+    "Tab": "Sprint Feedback"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:36.2364921+00:00",
+    "Tab": "Known Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:36.6011192+00:00",
+    "Tab": "Fixed Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:37.4688088+00:00",
+    "Tab": "Sprint Feedback"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:37.9734853+00:00",
+    "Tab": "Known Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:38.3808544+00:00",
+    "Tab": "Fixed Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:39.1102842+00:00",
+    "Tab": "Known Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:41.5029553+00:00",
+    "Tab": "Fixed Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:41.8029013+00:00",
+    "Tab": "Activity"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2022-12-15T17:21:44.7024152+00:00",
+    "Tab": "Release Report"
   }
 ]

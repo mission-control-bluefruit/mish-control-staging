@@ -22,6 +22,6 @@
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
-  "PullRequestNumber": 0,
+  "AssignedPullRequests": [],
   "TimeInFlightEntries": []
 }
